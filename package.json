@@ -1,0 +1,1 @@
+{"description":"订阅内容整理小服务（Render 部署练习 2）","engines":{"node":">=18"},"main":"server.js","name":"sub-converter","scripts":{"start":"node server.js"},"version":"1.0.0"}
